@@ -1,0 +1,2 @@
+Elementy diagonalne: [ 5.00000000e-01  3.33333333e-02 -1.38888889e-03  1.02040816e-04]
+Iloczyn elementów diagonalnych: -2.362055933483194e-09
