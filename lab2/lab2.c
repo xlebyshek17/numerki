@@ -61,7 +61,7 @@ int main(void)
         {
             fprintf(file, "%.2f ", gsl_vector_get(c, i));
         }
-        fprintf(file, "\nq = %.2f o_q = %f\n", q, o_q);
+        fprintf(file, "\nq = %.2f o_q = %.15e\n", q, o_q);
 
         gsl_matrix_free(A_ext); // Zwolnienie pamięci
     }
